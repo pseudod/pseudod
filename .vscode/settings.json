@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "mysql",
+            "dialect": "MySQL",
+            "name": "Local instance MySQL80",
+            "password": "Ysert1700",
+            "port": 3306,
+            "server": "localhost",
+            "username": "admin"
+        }
+    ]
+}
